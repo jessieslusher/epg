@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="Live",A&E US Eastern Feed SD
 https://tvpass.org/live/AEEast/sd
-#EXTINF:-1, US Bally Sports Detroit alliptvlinks.com
-http://cord-cutter.net:8080/X5xRz0/944877/20936?checkedby:alliptvlinks.com
-#EXTINF:-1, US Bally Sports Detroit Backup NO_3 alliptvlinks.com
-http://cord-cutter.net:8080/hq3y4G/234247/20936?checkedby:alliptvlinks.com
-#EXTINF:-1, US Bally Sports Detroit A Backup NO_4 alliptvlinks.com
-http://cord-cutter.net:8080/hq3y4G/234247/20930?checkedby:alliptvlinks.com
-#EXTINF:-1, US Bally Sports Detroit (A) Backup NO_5 alliptvlinks.com
-http://cord-cutter.net:8080/25464931/30585186/20930?checkedby:alliptvlinks.com
-#EXTINF:-1, US Bally Sports Detroit A Backup NO_1 alliptvlinks.com
-http://cord-cutter.net:8080/k4Svp2/645504/20930?checkedby:alliptvlinks.com
-#EXTINF:-1, US Bally Sports Detroit Backup NO_4 alliptvlinks.com
-http://cord-cutter.net:8080/25464931/30585186/20936?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" group-title="Live",A&E US Eastern Feed HD
 https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles SD" group-title="Live",ABC (KABC) Los Angeles SD
@@ -195,6 +183,46 @@ https://tvpass.org/live/fanduel-sports-indiana/hd
 https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
 #EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit HD" group-title="Live",Fanduel Sports Network Detroit HD
 https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 1
+http://cord-cutter.net:8080/X5xRz0/944877/20936?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 2
+http://cord-cutter.net:8080/hq3y4G/234247/20936?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 3
+http://cord-cutter.net:8080/hq3y4G/234247/20930?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 4
+http://cord-cutter.net:8080/25464931/30585186/20930?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 5
+http://cord-cutter.net:8080/k4Svp2/645504/20930?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 6
+http://cord-cutter.net:8080/25464931/30585186/20936?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 7
+http://cord-cutter.net:8080/X5xRz0/944877/20930?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 8
+http://cord-cutter.net:8080/X5xRz0/944877/20936?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 9
+http://adler-iptv.net:80/khidralosh/MfXHS2MXUU/310121
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 10
+http://adler-iptv.net:80/khidralosh/MfXHS2MXUU/310198
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 11
+http://adler-iptv.net:80/khidralosh/MfXHS2MXUU/310202
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 12
+http://adler-iptv.net:80/khidralosh/MfXHS2MXUU/310203
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 13
+http://adler-iptv.net:80/khidralosh/MfXHS2MXUU/310366
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 14
+http://adler-iptv.net:80/khidralosh/MfXHS2MXUU/310548
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 15
+http://adler-iptv.net:80/khidralosh/MfXHS2MXUU/310611
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 17
+http://adler-iptv.net:80/khidralosh/MfXHS2MXUU/310612
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 18
+http://adler-iptv.net:80/khidralosh/MfXHS2MXUU/310636
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 19
+http://adler-iptv.net:80/khidralosh/MfXHS2MXUU/310637
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 20
+http://adler-iptv.net:80/khidralosh/MfXHS2MXUU/310638
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD 21
+http://adler-iptv.net:80/khidralosh/MfXHS2MXUU/310639
 #EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida SD" group-title="Live",Fanduel Sports Network Florida SD
 https://tvpass.org/live/fanduel-sports-network-florida/sd
 #EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida HD" group-title="Live",Fanduel Sports Network Florida HD
