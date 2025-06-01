@@ -129,6 +129,10 @@ https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
 #EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia HD" group-title="Live",CW (WDCW) District of Columbia HD
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia HD 3" group-title="Live",CW (WDCW) District of Columbia HD 3
+http://cord-cutter.net:8080/X5xRz0/944877/120786?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia HD 2" group-title="Live",CW (WDCW) District of Columbia HD 2
+http://cord-cutter.net:8080/X5xRz0/944877/120786?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America SD" group-title="Live",Destination America SD
 https://tvpass.org/live/DestinationAmerica/sd
 #EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America HD" group-title="Live",Destination America HD
