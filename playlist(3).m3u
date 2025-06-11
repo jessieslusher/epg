@@ -91,6 +91,12 @@ https://tvpass.org/live/BETHerEast/hd
 https://tvpass.org/live/BTN/sd
 #EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network HD" group-title="Live",Big Ten Network HD
 https://tvpass.org/live/BTN/hd
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network HD 1" group-title="Live",Big Ten Network HD 1
+http://cord-cutter.net:8080/X5xRz0/944877/9828?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network HD 2" group-title="Live",Big Ten Network HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/9828?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network HD 3" group-title="Live",Big Ten Network HD 3
+http://cord-cutter.net:8080/hq3y4G/234247/9828?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA SD" group-title="Live",Bloomberg TV USA SD
 https://tvpass.org/live/BloombergTV/sd
 #EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA HD" group-title="Live",Bloomberg TV USA HD
