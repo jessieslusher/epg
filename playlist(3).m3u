@@ -37,6 +37,10 @@ http://cord-cutter.net:8080/Rme2Fg/183926/121139?checkedby:alliptvlinks.com
 https://tvpass.org/live/ACCNetwork/sd
 #EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network HD" group-title="Live",ACC Network HD
 https://tvpass.org/live/ACCNetwork/hd
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network HD 1" group-title="Live",ACC Network HD 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=388396&extension=ts&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network HD 2" group-title="Live",ACC Network HD 2
+http://cord-cutter.net:8080/X5xRz0/944877/9273?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver SD" group-title="Live",Altitude Sports Denver SD
 https://tvpass.org/live/altitude-sports-denver/sd
 #EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver HD" group-title="Live",Altitude Sports Denver HD
