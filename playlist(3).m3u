@@ -27,6 +27,12 @@ https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
 https://tvpass.org/live/WABCDT1/sd
 #EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY HD" group-title="Live",ABC (WABC) New York, NY HD
 https://tvpass.org/live/WABCDT1/hd
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY HD 1" group-title="Live",ABC (WABC) New York, NY HD 1
+http://tvmate.icu:8080/vNay0H/219352/121139?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY HD 2" group-title="Live",ABC (WABC) New York, NY HD 2
+http://cord-cutter.net:8080/X5xRz0/944877/121139?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY HD 3" group-title="Live",ABC (WABC) New York, NY HD 3
+http://cord-cutter.net:8080/Rme2Fg/183926/121139?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network SD" group-title="Live",ACC Network SD
 https://tvpass.org/live/ACCNetwork/sd
 #EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network HD" group-title="Live",ACC Network HD
