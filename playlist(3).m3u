@@ -151,6 +151,12 @@ http://tvmate.icu:8080/vNay0H/219352/10454?checkedby:alliptvlinks.com
 https://tvpass.org/live/chicago-sports-network/sd
 #EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network HD" group-title="Live",Chicago Sports Network HD
 https://tvpass.org/live/chicago-sports-network/hd
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network HD 1" group-title="Live",Chicago Sports Network HD 1
+http://cord-cutter.net:8080/hq3y4G/234247/20941?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network HD 2" group-title="Live",Chicago Sports Network HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/20941?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network HD 3" group-title="Live",Chicago Sports Network HD 3
+http://cord-cutter.net:8080/25464931/30585186/20941?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed SD" group-title="Live",Cinemax Eastern Feed SD
 https://tvpass.org/live/CinemaxEast/sd
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Live",Cinemax Eastern Feed HD
