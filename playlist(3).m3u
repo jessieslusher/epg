@@ -386,14 +386,24 @@ https://tvpass.org/live/fanduel-sports-tennessee-east/hd
 https://tvpass.org/live/FoodNetworkEast/sd
 #EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed HD" group-title="Live",Food Network USA Eastern Feed HD
 https://tvpass.org/live/FoodNetworkEast/hd
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed HD 1" group-title="Live",Food Network USA Eastern Feed HD 1
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles SD" group-title="Live",FOX (KTTV) Los Angeles SD
 https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles HD" group-title="Live",FOX (KTTV) Los Angeles HD
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles HD 1" group-title="Live",FOX (KTTV) Los Angeles HD 1
+http://cord-cutter.net:8080/X5xRz0/944877/135794?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles HD 2" group-title="Live",FOX (KTTV) Los Angeles HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/1818?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY SD" group-title="Live",FOX (WNYW) New York, NY SD
 https://tvpass.org/live/WNYWDT1/sd
 #EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY HD" group-title="Live",FOX (WNYW) New York, NY HD
 https://tvpass.org/live/WNYWDT1/hd
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY HD 1" group-title="Live",FOX (WNYW) New York, NY HD 1
+http://tvmate.icu:8080/vNay0H/219352/120750?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY HD 2" group-title="Live",FOX (WNYW) New York, NY HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/120750?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business SD" group-title="Live",Fox Business SD
 https://tvpass.org/live/FoxBusiness/sd
 #EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business HD" group-title="Live",Fox Business HD
@@ -402,6 +412,10 @@ https://tvpass.org/live/FoxBusiness/hd
 https://tvpass.org/live/FoxNewsChannel/sd
 #EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News HD" group-title="Live",Fox News HD
 https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News HD 1" group-title="Live",Fox News HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/1818?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News HD 2" group-title="Live",Fox News HD 2
+http://cord-cutter.net:8080/X5xRz0/944877/1818?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 SD" group-title="Live",Fox Sports 1 SD
 https://tvpass.org/live/FoxSports1/sd
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="Live",Fox Sports 1 HD
@@ -414,6 +428,10 @@ https://tvpass.org/live/FoxSports2/hd
 https://tvpass.org/live/FreeformEast/sd
 #EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed HD" group-title="Live",Freeform East Feed HD
 https://tvpass.org/live/FreeformEast/hd
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed HD 1" group-title="Live",Freeform East Feed HD 1
+http://212.102.60.231/FREE_FORM/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed HD 2" group-title="Live",Freeform East Feed HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/13370?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed SD" group-title="Live",FUSE TV Eastern feed SD
 https://tvpass.org/live/FuseEast/sd
 #EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed HD" group-title="Live",FUSE TV Eastern feed HD
@@ -430,18 +448,32 @@ https://tvpass.org/live/FXEast/hd
 https://tvpass.org/live/FXXEast/sd
 #EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern HD" group-title="Live",FXX USA Eastern HD
 https://tvpass.org/live/FXXEast/hd
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern HD 1" group-title="Live",FXX USA Eastern HD 1
+http://cord-cutter.net:8080/hq3y4G/234247/46699?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern HD 2" group-title="Live",FXX USA Eastern HD 2
+http://tvmate.icu:8080/vNay0H/219352/46699?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern SD" group-title="Live",FYI USA Eastern SD
 https://tvpass.org/live/FYIEast/sd
 #EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern HD" group-title="Live",FYI USA Eastern HD
 https://tvpass.org/live/FYIEast/hd
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern HD 1" group-title="Live",FYI USA Eastern HD 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=155341&extension=ts&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East SD" group-title="Live",Game Show Network East SD
 https://tvpass.org/live/game-show-network-east/sd
 #EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East HD" group-title="Live",Game Show Network East HD
 https://tvpass.org/live/game-show-network-east/hd
+#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East HD 1" group-title="Live",Game Show Network East HD 1 
+http://tvmate.icu:8080/vNay0H/219352/120633?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East HD 2" group-title="Live",Game Show Network East HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/120633?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA SD" group-title="Live",Golf Channel USA SD
 https://tvpass.org/live/GolfChannel/sd
 #EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA HD" group-title="Live",Golf Channel USA HD
 https://tvpass.org/live/GolfChannel/hd
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA HD 1" group-title="Live",Golf Channel USA HD 1
+http://tvmate.icu:8080/vNay0H/219352/46728?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA HD 2" group-title="Live",Golf Channel USA HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/9806?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed SD" group-title="Live",Hallmark Eastern Feed SD
 https://tvpass.org/live/HallmarkChannelEast/sd
 #EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed HD" group-title="Live",Hallmark Eastern Feed HD
@@ -454,10 +486,16 @@ https://tvpass.org/live/HallmarkDrama/hd
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
 #EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD HD" group-title="Live",Hallmark Mystery Eastern HD HD
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD HD 1" group-title="Live",Hallmark Mystery Eastern HD HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/10289?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed SD" group-title="Live",HBO Eastern Feed SD
 https://tvpass.org/live/HBOEast/sd
 #EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD" group-title="Live",HBO Eastern Feed HD
 https://tvpass.org/live/HBOEast/hd
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD 1" group-title="Live",HBO Eastern Feed HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/46713?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD 2" group-title="Live",HBO Eastern Feed HD 2
+http://cord-cutter.net:8080/hq3y4G/234247/46713?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed SD" group-title="Live",HBO 2 Eastern Feed SD
 https://tvpass.org/live/HBO2East/sd
 #EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed HD" group-title="Live",HBO 2 Eastern Feed HD
@@ -474,6 +512,10 @@ https://tvpass.org/live/HBOFamilyEast/hd
 https://tvpass.org/live/HBOSignatureEast/sd
 #EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Live",HBO Signature (HBO 3) Eastern HD
 https://tvpass.org/live/HBOSignatureEast/hd
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD 1" group-title="Live",HBO Signature (HBO 3) Eastern HD 1
+http://cord-cutter.net:8080/hq3y4G/234247/9266?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD 2" group-title="Live",HBO Signature (HBO 3) Eastern HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/9266?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East SD" group-title="Live",HBO Zone HD East SD
 https://tvpass.org/live/HBOZoneEast/sd
 #EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East HD" group-title="Live",HBO Zone HD East HD
@@ -486,6 +528,10 @@ https://tvpass.org/live/HGTVEast/hd
 https://tvpass.org/live/HistoryEast/sd
 #EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed HD" group-title="Live",History Channel US Eastern Feed HD
 https://tvpass.org/live/HistoryEast/hd
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed HD" group-title="Live",History Channel US Eastern Feed HD 1
+http://tvmate.icu:8080/vNay0H/219352/15017?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed HD" group-title="Live",History Channel US Eastern Feed HD 2
+http://tvmate.icu:8080/vNay0H/219352/46724?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="hln" tvg-name="HLN SD" group-title="Live",HLN SD
 https://tvpass.org/live/HLN/sd
 #EXTINF:-1 tvg-id="hln" tvg-name="HLN HD" group-title="Live",HLN HD
@@ -494,14 +540,24 @@ https://tvpass.org/live/HLN/hd
 https://tvpass.org/live/IFCEast/sd
 #EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD" group-title="Live",Independent Film Channel US HD
 https://tvpass.org/live/IFCEast/hd
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD 1" group-title="Live",Independent Film Channel US HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/9272?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD 2" group-title="Live",Independent Film Channel US HD 2
+http://cord-cutter.net:8080/X5xRz0/944877/9272?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern SD" group-title="Live",Investigation Discovery USA Eastern SD
 https://tvpass.org/live/InvestigationDiscoveryEast/sd
 #EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern HD" group-title="Live",Investigation Discovery USA Eastern HD
 https://tvpass.org/live/InvestigationDiscoveryEast/hd
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern HD 1" group-title="Live",Investigation Discovery USA Eastern HD 1
+http://thevdm.xyz:25461/timmadden/timmad4765/31434?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed SD" group-title="Live",ION Eastern Feed SD
 https://tvpass.org/live/IONTVEast/sd
 #EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed HD" group-title="Live",ION Eastern Feed HD
 https://tvpass.org/live/IONTVEast/hd
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed HD 1" group-title="Live",ION Eastern Feed HD 1
+http://cord-cutter.net:8080/X5xRz0/944877/9297?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed HD 2" group-title="Live",ION Eastern Feed HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/9297?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East SD" group-title="Live",Lifetime Movies East SD
 https://tvpass.org/live/LifetimeMoviesEast/sd
 #EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East HD" group-title="Live",Lifetime Movies East HD
@@ -514,10 +570,16 @@ https://tvpass.org/live/LifetimeEast/hd
 https://tvpass.org/live/LogoEast/sd
 #EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East HD" group-title="Live",LOGO East HD
 https://tvpass.org/live/LogoEast/hd
+#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East HD 1" group-title="Live",LOGO East HD 1
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=df156d8e-abc9-4542-8940-17058c09347c&serverSideAds=false&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network SD" group-title="Live",Marquee Sports Network SD
 https://tvpass.org/live/marquee-sports-network/sd
 #EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network HD" group-title="Live",Marquee Sports Network HD
 https://tvpass.org/live/marquee-sports-network/hd
+#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network HD" group-title="Live",Marquee Sports Network HD 1
+http://tvmate.icu:8080/vNay0H/219352/13379?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network HD" group-title="Live",Marquee Sports Network HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/13379?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey SD" group-title="Live",MeTV Toons (WJLP2) New Jersey SD
 https://tvpass.org/live/metv-toons/sd
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey HD" group-title="Live",MeTV Toons (WJLP2) New Jersey HD
@@ -526,14 +588,20 @@ https://tvpass.org/live/metv-toons/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 #EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York HD" group-title="Live",MeTV Wjlp New Jerseynew York HD
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York HD 1" group-title="Live",MeTV Wjlp New Jerseynew York HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/16149?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network SD" group-title="Live",Midatlantic Sports Network SD
 https://tvpass.org/live/midatlantic-sports-network/sd
 #EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network HD" group-title="Live",Midatlantic Sports Network HD
 https://tvpass.org/live/midatlantic-sports-network/hd
+#EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network HD 1" group-title="Live",Midatlantic Sports Network HD 1
+http://cord-cutter.net:8080/25464931/30585186/65698?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network SD" group-title="Live",MLB Network SD
 https://tvpass.org/live/MLBNetwork/sd
 #EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network HD" group-title="Live",MLB Network HD
 https://tvpass.org/live/MLBNetwork/hd
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network HD 1" group-title="Live",MLB Network HD 1
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network SD" group-title="Live",Monumental Sports Network SD
 https://tvpass.org/live/monumental-sports-network/sd
 #EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network HD" group-title="Live",Monumental Sports Network HD
@@ -546,18 +614,30 @@ https://tvpass.org/live/MoreMaxEast/hd
 https://tvpass.org/live/Motortrend/sd
 #EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD HD" group-title="Live",Motor Trend HD HD
 https://tvpass.org/live/Motortrend/hd
+#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD HD 1" group-title="Live",Motor Trend HD HD 1
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f6c6f3a-05ab-4e92-bd57-fc8b312f109d&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East SD" group-title="Live",MovieMax (Max 6) East SD
 https://tvpass.org/live/MovieMaxEast/sd
 #EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East HD" group-title="Live",MovieMax (Max 6) East HD
 https://tvpass.org/live/MovieMaxEast/hd
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East HD 1" group-title="Live",MovieMax (Max 6) East HD 1
+http://tvmate.icu:8080/vNay0H/219352/13480?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East HD 2" group-title="Live",MovieMax (Max 6) East HD 2
+http://cord-cutter.net:8080/X5xRz0/944877/13480?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens SD" group-title="Live",MSG Madison Square Gardens SD
 https://tvpass.org/live/msg-madison-square-gardens/sd
 #EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens HD" group-title="Live",MSG Madison Square Gardens HD
 https://tvpass.org/live/msg-madison-square-gardens/hd
+#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens HD 1" group-title="Live",MSG Madison Square Gardens HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/21090?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus SD" group-title="Live",MSG Plus SD
 https://tvpass.org/live/msg-plus/sd
 #EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus HD" group-title="Live",MSG Plus HD
 https://tvpass.org/live/msg-plus/hd
+#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus HD 1" group-title="Live",MSG Plus HD 1
+http://cord-cutter.net:8080/25464931/30585186/21089?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus HD 2" group-title="Live",MSG Plus HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/21089?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA SD" group-title="Live",MSNBC USA SD
 https://tvpass.org/live/MSNBC/sd
 #EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA HD" group-title="Live",MSNBC USA HD
@@ -574,22 +654,36 @@ https://tvpass.org/live/MTVEast/hd
 https://tvpass.org/live/NationalGeographicEast/sd
 #EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern HD" group-title="Live",National Geographic US Eastern HD
 https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern HD 1" group-title="Live",National Geographic US Eastern HD 1
+http://78.130.250.2:8023/play/a02e/index.m3u8?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild SD" group-title="Live",National Geographic Wild SD
 https://tvpass.org/live/NationalGeographicWildEast/sd
 #EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild HD" group-title="Live",National Geographic Wild HD
 https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild HD 1" group-title="Live",National Geographic Wild HD 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=12512&extension=ts&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA SD" group-title="Live",NBA TV USA SD
 https://tvpass.org/live/NBATV/sd
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA HD" group-title="Live",NBA TV USA HD
 https://tvpass.org/live/NBATV/hd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA HD 1" group-title="Live",NBA TV USA HD 1
+http://saveukraine.only4.tv/6307/video.m3u8?token=saveUkrain&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles SD" group-title="Live",NBC (KNBC) Los Angeles SD
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles HD" group-title="Live",NBC (KNBC) Los Angeles HD
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles HD 1" group-title="Live",NBC (KNBC) Los Angeles HD 1
+http://cord-cutter.net:8080/X5xRz0/944877/120656?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles HD 2" group-title="Live",NBC (KNBC) Los Angeles HD 2
+http://cord-cutter.net:8080/hq3y4G/234247/120656?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY SD" group-title="Live",NBC (WNBC) New York, NY SD
 https://tvpass.org/live/WNBCDT1/sd
 #EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY HD" group-title="Live",NBC (WNBC) New York, NY HD
 https://tvpass.org/live/WNBCDT1/hd
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY HD 1" group-title="Live",NBC (WNBC) New York, NY HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/120751?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY HD 2" group-title="Live",NBC (WNBC) New York, NY HD 2
+http://cord-cutter.net:8080/X5xRz0/944877/120751?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area SD" group-title="Live",NBC Sports Bay Area SD
 https://tvpass.org/live/nbc-sports-bay-area/sd
 #EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area HD" group-title="Live",NBC Sports Bay Area HD
@@ -598,6 +692,8 @@ https://tvpass.org/live/nbc-sports-bay-area/hd
 https://tvpass.org/live/nbc-sports-boston/sd
 #EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston HD" group-title="Live",NBC Sports Boston HD
 https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston HD 1" group-title="Live",NBC Sports Boston HD 1
+http://cord-cutter.net:8080/25464931/30585186/20939?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California SD" group-title="Live",NBC Sports California SD
 https://tvpass.org/live/nbc-sports-california/sd
 #EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California HD" group-title="Live",NBC Sports California HD
@@ -606,6 +702,8 @@ https://tvpass.org/live/nbc-sports-california/hd
 https://tvpass.org/live/nbc-sports-philadelphia/sd
 #EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia HD" group-title="Live",NBC Sports Philadelphia HD
 https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia HD 1" group-title="Live",NBC Sports Philadelphia HD 1
+http://cord-cutter.net:8080/hq3y4G/234247/20943?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network SD" group-title="Live",New England Sports Network SD
 https://tvpass.org/live/new-england-sports-network/sd
 #EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network HD" group-title="Live",New England Sports Network HD
@@ -614,18 +712,28 @@ https://tvpass.org/live/new-england-sports-network/hd
 https://tvpass.org/live/NewsmaxTV/sd
 #EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV HD" group-title="Live",NewsMax TV HD
 https://tvpass.org/live/NewsmaxTV/hd
+#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV HD 1" group-title="Live",NewsMax TV HD 1
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network SD" group-title="Live",NFL Network SD
 https://tvpass.org/live/NFLNetwork/sd
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD" group-title="Live",NFL Network HD
 https://tvpass.org/live/NFLNetwork/hd
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD 1" group-title="Live",NFL Network HD 1
+http://cord-cutter.net:8080/hq3y4G/234247/159117?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone SD" group-title="Live",NFL RedZone SD
 https://tvpass.org/live/NFLRedZone/sd
 #EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone HD" group-title="Live",NFL RedZone HD
 https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone HD 1" group-title="Live",NFL RedZone HD 1
+http://cord-cutter.net:8080/hq3y4G/234247/208830?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA SD" group-title="Live",NHL Network USA SD
 https://tvpass.org/live/NHLNetwork/sd
 #EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA HD" group-title="Live",NHL Network USA HD
 https://tvpass.org/live/NHLNetwork/hd
+#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA HD 1" group-title="Live",NHL Network USA HD 1
+http://saveukraine.only4.tv/7926/video.m3u8?token=saveUkrain&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA HD 2" group-title="Live",NHL Network USA HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/20179?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East SD" group-title="Live",Nick Jr. East SD
 https://tvpass.org/live/NickJrEast/sd
 #EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East HD" group-title="Live",Nick Jr. East HD
@@ -650,14 +758,20 @@ https://tvpass.org/live/OutdoorChannel/hd
 https://tvpass.org/live/OxygenEast/sd
 #EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed HD" group-title="Live",Oxygen Eastern Feed HD
 https://tvpass.org/live/OxygenEast/hd
+#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed HD 1" group-title="Live",Oxygen Eastern Feed HD 1
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654930a8346f420008d3b0b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7818-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fedc1ef5-3e5f-4815-b46c-fcf59a9d9b9b&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY SD" group-title="Live",PBS (WNET) New York, NY SD
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY HD" group-title="Live",PBS (WNET) New York, NY HD
 https://tvpass.org/live/WNET/hd
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY HD 1" group-title="Live",PBS (WNET) New York, NY HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/139756?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel SD" group-title="Live",ReelzChannel SD
 https://tvpass.org/live/Reelz/sd
 #EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel HD" group-title="Live",ReelzChannel HD
 https://tvpass.org/live/Reelz/hd
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel HD 1" group-title="Live",ReelzChannel HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/10526?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="science" tvg-name="Science SD" group-title="Live",Science SD
 https://tvpass.org/live/Science/sd
 #EXTINF:-1 tvg-id="science" tvg-name="Science HD" group-title="Live",Science HD
@@ -670,6 +784,8 @@ https://tvpass.org/live/SECN/hd
 https://tvpass.org/live/ShowtimeEast/sd
 #EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed HD" group-title="Live",Showtime Eastern Feed HD
 https://tvpass.org/live/ShowtimeEast/hd
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed HD 1" group-title="Live",Showtime Eastern Feed HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/13219?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern SD" group-title="Live",Showtime 2 Eastern SD
 https://tvpass.org/live/Showtime2East/sd
 #EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern HD" group-title="Live",Showtime 2 Eastern HD
@@ -686,6 +802,8 @@ https://tvpass.org/live/space-city-home-network/hd
 https://tvpass.org/live/spectrum-sportsnet-la/sd
 #EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA HD" group-title="Live",Spectrum SportsNet LA HD
 https://tvpass.org/live/spectrum-sportsnet-la/hd
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA HD 1" group-title="Live",Spectrum SportsNet LA HD 1
+http://cord-cutter.net:8080/hq3y4G/234247/31636?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers SD" group-title="Live",Spectrum Sportsnet Lakers SD
 https://tvpass.org/live/spectrum-sportsnet/sd
 #EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers HD" group-title="Live",Spectrum Sportsnet Lakers HD
@@ -722,6 +840,8 @@ https://tvpass.org/live/sportsnet-west/hd
 https://tvpass.org/live/StarzEast/sd
 #EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern HD" group-title="Live",Starz Eastern HD
 https://tvpass.org/live/StarzEast/hd
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern HD 1" group-title="Live",Starz Eastern HD 1
+http://cord-cutter.net:8080/X5xRz0/944877/9299?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East SD" group-title="Live",SundanceTV USA East SD
 https://tvpass.org/live/SundanceTVEast/sd
 #EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East HD" group-title="Live",SundanceTV USA East HD
@@ -730,10 +850,18 @@ https://tvpass.org/live/SundanceTVEast/hd
 https://tvpass.org/live/SyfyEast/sd
 #EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed HD" group-title="Live",Syfy Eastern Feed HD
 https://tvpass.org/live/SyfyEast/hd
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed HD 1" group-title="Live",Syfy Eastern Feed HD 1
+http://212.102.60.231/SYFY/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed HD 2" group-title="Live",Syfy Eastern Feed HD 2
+http://cord-cutter.net:8080/X5xRz0/944877/46685?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East SD" group-title="Live",TBS East SD
 https://tvpass.org/live/TBSEast/sd
 #EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East HD" group-title="Live",TBS East HD
 https://tvpass.org/live/TBSEast/hd
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East HD 1" group-title="Live",TBS East HD 1
+http://fl1.moveonjoy.com/TBS/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East HD 2" group-title="Live",TBS East HD 2
+http://cord-cutter.net:8080/Rme2Fg/183926/20867?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern SD" group-title="Live",TeenNick Eastern SD
 https://tvpass.org/live/TeenNickEast/sd
 #EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern HD" group-title="Live",TeenNick Eastern HD
@@ -742,6 +870,10 @@ https://tvpass.org/live/TeenNickEast/hd
 https://tvpass.org/live/TelemundoEast/sd
 #EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed HD" group-title="Live",Telemundo Eastern Feed HD
 https://tvpass.org/live/TelemundoEast/hd
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed HD 1" group-title="Live",Telemundo Eastern Feed HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/120691?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed HD 2" group-title="Live",Telemundo Eastern Feed HD 2
+http://cord-cutter.net:8080/hq3y4G/234247/120691?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel SD" group-title="Live",The Cooking Channel SD
 https://tvpass.org/live/CookingChannel/sd
 #EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel HD" group-title="Live",The Cooking Channel HD
@@ -758,6 +890,10 @@ https://tvpass.org/live/TheWeatherChannel/hd
 https://tvpass.org/live/TLCEast/sd
 #EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern HD" group-title="Live",TLC USA Eastern HD
 https://tvpass.org/live/TLCEast/hd
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern HD" group-title="Live",TLC USA Eastern HD 1
+http://tvmate.icu:8080/vNay0H/219352/12734?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern HD" group-title="Live",TLC USA Eastern HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/12734?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed SD" group-title="Live",TMC (US) Eastern Feed SD
 https://tvpass.org/live/TheMovieChannelEast/sd
 #EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed HD" group-title="Live",TMC (US) Eastern Feed HD
@@ -766,14 +902,24 @@ https://tvpass.org/live/TheMovieChannelEast/hd
 https://tvpass.org/live/TNTEast/sd
 #EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed HD" group-title="Live",TNT Eastern Feed HD
 https://tvpass.org/live/TNTEast/hd
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed HD 1" group-title="Live",TNT Eastern Feed HD 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=411460&extension=ts&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East SD" group-title="Live",Travel US East SD
 https://tvpass.org/live/TravelChannelEast/sd
 #EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East HD" group-title="Live",Travel US East HD
 https://tvpass.org/live/TravelChannelEast/hd
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East HD 1" group-title="Live",Travel US East HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/9315?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East HD 2" group-title="Live",Travel US East HD 2
+http://tvmate.icu:8080/vNay0H/219352/9315?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern SD" group-title="Live",truTV USA Eastern SD
 https://tvpass.org/live/truTVEast/sd
 #EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern HD" group-title="Live",truTV USA Eastern HD
 https://tvpass.org/live/truTVEast/hd
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern HD 1" group-title="Live",truTV USA Eastern HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/10224?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern HD 2" group-title="Live",truTV USA Eastern HD 2
+http://tvmate.icu:8080/vNay0H/219352/10224?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 SD" group-title="Live",TSN1 SD
 https://tvpass.org/live/tsn1/sd
 #EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 HD" group-title="Live",TSN1 HD
@@ -802,10 +948,16 @@ https://tvpass.org/live/TCMEast/hd
 https://tvpass.org/live/tv-land-eastern/sd
 #EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern HD" group-title="Live",TV Land Eastern HD
 https://tvpass.org/live/tv-land-eastern/hd
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern HD 1" group-title="Live",TV Land Eastern HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/9271?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern HD 2" group-title="Live",TV Land Eastern HD 2
+http://tvmate.icu:8080/vNay0H/219352/9271?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="tv-one" tvg-name="TV One SD" group-title="Live",TV One SD
 https://tvpass.org/live/TVOne/sd
 #EXTINF:-1 tvg-id="tv-one" tvg-name="TV One HD" group-title="Live",TV One HD
 https://tvpass.org/live/TVOne/hd
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One HD 1" group-title="Live",TV One HD 1
+http://tvmate.icu:8080/vNay0H/219352/20868?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids SD" group-title="Live",Universal Kids SD
 https://tvpass.org/live/UniversalKidsEast/sd
 #EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids HD" group-title="Live",Universal Kids HD
@@ -818,10 +970,16 @@ https://tvpass.org/live/UnivisionEast/hd
 https://tvpass.org/live/USANetworkEast/sd
 #EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed HD" group-title="Live",USA Network East Feed HD
 https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed HD 1" group-title="Live",USA Network East Feed HD 1
+http://cord-cutter.net:8080/k4Svp2/645504/10252?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed HD 2" group-title="Live",USA Network East Feed HD 2
+http://tvmate.icu:8080/vNay0H/219352/10252?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed SD" group-title="Live",VH1 Eastern Feed SD
 https://tvpass.org/live/VH1East/sd
 #EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed HD" group-title="Live",VH1 Eastern Feed HD
 https://tvpass.org/live/VH1East/hd
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed HD 1" group-title="Live",VH1 Eastern Feed HD 1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="vice" tvg-name="VICE SD" group-title="Live",VICE SD
 https://tvpass.org/live/VICETV/sd
 #EXTINF:-1 tvg-id="vice" tvg-name="VICE HD" group-title="Live",VICE HD
