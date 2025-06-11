@@ -161,10 +161,18 @@ http://cord-cutter.net:8080/25464931/30585186/20941?checkedby:alliptvlinks.com
 https://tvpass.org/live/CinemaxEast/sd
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Live",Cinemax Eastern Feed HD
 https://tvpass.org/live/CinemaxEast/hd
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD 1" group-title="Live",Cinemax Eastern Feed HD 1
+http://cord-cutter.net:8080/hq3y4G/234247/13380?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD 2" group-title="Live",Cinemax Eastern Feed HD 2
+http://tvmate.icu:8080/vNay0H/219352/13380?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed SD" group-title="Live",CMT US Eastern Feed SD
 https://tvpass.org/live/CMTEast/sd
 #EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed HD" group-title="Live",CMT US Eastern Feed HD
 https://tvpass.org/live/CMTEast/hd
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed HD 1" group-title="Live",CMT US Eastern Feed HD 1 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed HD 2" group-title="Live",CMT US Eastern Feed HD 2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280712-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd328c28-b23b-4f85-9b18-9d73786f7109&serverSideAds=false&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA SD" group-title="Live",CNBC USA SD
 https://tvpass.org/live/CNBC/sd
 #EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA HD" group-title="Live",CNBC USA HD
@@ -173,10 +181,20 @@ https://tvpass.org/live/CNBC/hd
 https://tvpass.org/live/CNN/sd
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN US HD" group-title="Live",CNN US HD
 https://tvpass.org/live/CNN/hd
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US HD 1" group-title="Live",CNN US HD 1
+http://cord-cutter.net:8080/hq3y4G/234247/104884?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US HD 2" group-title="Live",CNN US HD 2
+http://cord-cutter.net:8080/hq3y4G/234247/1817?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US HD 3" group-title="Live",CNN US HD 3
+http://kokaleka.ddns.net:8000/fuentekokaleka/hEWIm88RLT/343?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed SD" group-title="Live",Comedy Central (US) Eastern Feed SD
 https://tvpass.org/live/ComedyCentralEast/sd
 #EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed HD" group-title="Live",Comedy Central (US) Eastern Feed HD
 https://tvpass.org/live/ComedyCentralEast/hd
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed HD 1" group-title="Live",Comedy Central (US) Eastern Feed HD 1
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed HD 2" group-title="Live",Comedy Central (US) Eastern Feed HD 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD SD" group-title="Live",Crime & Investigation Network USA HD SD
 https://tvpass.org/live/CrimePlusInvestigation/sd
 #EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD HD" group-title="Live",Crime & Investigation Network USA HD HD
@@ -185,6 +203,10 @@ https://tvpass.org/live/CrimePlusInvestigation/hd
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
 #EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego HD" group-title="Live",CW (KFMB-TV2) San Diego HD
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego HD 1" group-title="Live",CW (KFMB-TV2) San Diego HD 1
+https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB/elvs/live.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego HD 2" group-title="Live",CW (KFMB-TV2) San Diego HD 2
+https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia SD" group-title="Live",CW (WDCW) District of Columbia SD
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
 #EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia HD" group-title="Live",CW (WDCW) District of Columbia HD
@@ -201,10 +223,18 @@ https://tvpass.org/live/DestinationAmerica/hd
 https://tvpass.org/live/DiscoveryChannelEast/sd
 #EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed HD" group-title="Live",Discovery Channel (US) Eastern Feed HD
 https://tvpass.org/live/DiscoveryChannelEast/hd
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed HD 1" group-title="Live",Discovery Channel (US) Eastern Feed HD 1
+http://cord-cutter.net:8080/hq3y4G/234247/9811?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed HD 2" group-title="Live",Discovery Channel (US) Eastern Feed HD 2
+http://cord-cutter.net:8080/hq3y4G/234247/46720?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel SD" group-title="Live",Discovery Family Channel SD
 https://tvpass.org/live/DiscoveryFamily/sd
 #EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel HD" group-title="Live",Discovery Family Channel HD
 https://tvpass.org/live/DiscoveryFamily/hd
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel HD 1" group-title="Live",Discovery Family Channel HD 1
+http://tvmate.icu:8080/vNay0H/219352/10538?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel HD 2" group-title="Live",Discovery Family Channel HD 2
+http://cord-cutter.net:8080/hq3y4G/234247/10538?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel SD" group-title="Live",Discovery Life Channel SD
 https://tvpass.org/live/DiscoveryLife/sd
 #EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel HD" group-title="Live",Discovery Life Channel HD
@@ -229,6 +259,10 @@ https://tvpass.org/live/EEast/hd
 https://tvpass.org/live/ESPN/sd
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD" group-title="Live",ESPN HD
 https://tvpass.org/live/ESPN/hd
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD 1" group-title="Live",ESPN HD 1
+http://kokaleka.ddns.net:8000/fuentekokaleka/hEWIm88RLT/133?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD 2" group-title="Live",ESPN HD 2
+http://cord-cutter.net:8080/hq3y4G/234247/14197?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes SD" group-title="Live",ESPN Deportes SD
 https://tvpass.org/live/espn-deportes/sd
 #EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes HD" group-title="Live",ESPN Deportes HD
@@ -237,15 +271,24 @@ https://tvpass.org/live/espn-deportes/hd
 https://tvpass.org/live/ESPNews/sd
 #EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News HD" group-title="Live",ESPN News HD
 https://tvpass.org/live/ESPNews/hd
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News HD 1" group-title="Live",ESPN News HD 1
+http://cord-cutter.net:8080/X5xRz0/944877/17707?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News HD 2" group-title="Live",ESPN News HD 2
+http://cord-cutter.net:8080/hq3y4G/234247/17707?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U SD" group-title="Live",ESPN U SD
 https://tvpass.org/live/ESPNU/sd
 #EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U HD" group-title="Live",ESPN U HD
 https://tvpass.org/live/ESPNU/hd
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U HD 1" group-title="Live",ESPN U HD 1
+http://cord-cutter.net:8080/hq3y4G/234247/10255?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U HD 2" group-title="Live",ESPN U HD 2
+http://tvmate.icu:8080/vNay0H/219352/10255?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 SD" group-title="Live",ESPN2 SD
 https://tvpass.org/live/ESPN2/sd
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 HD" group-title="Live",ESPN2 HD
 https://tvpass.org/live/ESPN2/hd
-#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana SD" group-title="Live",Fanduel Sports Indiana SD
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 HD 1" group-title="Live",ESPN2 HD 1
+http://tvmate.icu:8080/vNay0H/219352/2210?checkedby:alliptvlinks.com#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana SD" group-title="Live",Fanduel Sports Indiana SD
 https://tvpass.org/live/fanduel-sports-indiana/sd
 #EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana HD" group-title="Live",Fanduel Sports Indiana HD
 https://tvpass.org/live/fanduel-sports-indiana/hd
