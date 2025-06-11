@@ -101,9 +101,9 @@ http://cord-cutter.net:8080/hq3y4G/234247/9828?checkedby:alliptvlinks.com
 https://tvpass.org/live/BloombergTV/sd
 #EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA HD" group-title="Live",Bloomberg TV USA HD
 https://tvpass.org/live/BloombergTV/hd
-#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA HD" group-title="Live",Bloomberg TV USA HD 1
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA HD 1" group-title="Live",Bloomberg TV USA HD 1
 http://tvmate.icu:8080/vNay0H/219352/15158?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA HD" group-title="Live",Bloomberg TV USA HD 2
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA HD 2" group-title="Live",Bloomberg TV USA HD 2
 http://cord-cutter.net:8080/hq3y4G/234247/15158?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang SD" group-title="Live",Boomerang SD
 https://tvpass.org/live/Boomerang/sd
@@ -113,6 +113,8 @@ https://tvpass.org/live/Boomerang/hd
 https://tvpass.org/live/BravoEast/sd
 #EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed HD" group-title="Live",Bravo USA Eastern Feed HD
 https://tvpass.org/live/BravoEast/hd
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed HD 1" group-title="Live",Bravo USA Eastern Feed HD 1
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549310a53fc97000838fcc9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=003ab90e-cb69-4949-9cbf-465fe6c6dc0b&serverSideAds=false&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN SD" group-title="Live",C-SPAN SD
 https://tvpass.org/live/CSPAN/sd
 #EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN HD" group-title="Live",C-SPAN HD
