@@ -71,6 +71,10 @@ http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=154623&ext
 https://tvpass.org/live/BBCAmericaEast/sd
 #EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East HD" group-title="Live",BBC America East HD
 https://tvpass.org/live/BBCAmericaEast/hd
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East HD 1" group-title="Live",BBC America East HD 1
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East HD 2" group-title="Live",BBC America East HD 2
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD SD" group-title="Live",BBC News North America HD SD
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
 #EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD HD" group-title="Live",BBC News North America HD HD
