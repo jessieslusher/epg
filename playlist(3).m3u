@@ -49,6 +49,14 @@ https://tvpass.org/live/altitude-sports-denver/hd
 https://tvpass.org/live/AMCEast/sd
 #EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed HD" group-title="Live",AMC Eastern Feed HD
 https://tvpass.org/live/AMCEast/hd
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed HD 1" group-title="Live",AMC Eastern Feed HD 1
+http://cord-cutter.net:8080/X5xRz0/944877/18925?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed HD 2" group-title="Live",AMC Eastern Feed HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/18925?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed HD 3" group-title="Live",AMC Eastern Feed HD 3
+http://tvmate.icu:8080/vNay0H/219352/18925?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed HD 4" group-title="Live",AMC Eastern Feed HD 4
+http://tvmate.icu:8080/nCqH8t/631017/18925?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel SD" group-title="Live",American Heroes Channel SD
 https://tvpass.org/live/AmericanHeroesChannel/sd
 #EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel HD" group-title="Live",American Heroes Channel HD
