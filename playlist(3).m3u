@@ -57,6 +57,8 @@ https://tvpass.org/live/AmericanHeroesChannel/hd
 https://tvpass.org/live/AnimalPlanetEast/sd
 #EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD" group-title="Live",Animal Planet US East HD
 https://tvpass.org/live/AnimalPlanetEast/hd
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD 1" group-title="Live",Animal Planet US East HD 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=154623&extension=ts&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East SD" group-title="Live",BBC America East SD
 https://tvpass.org/live/BBCAmericaEast/sd
 #EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East HD" group-title="Live",BBC America East HD
