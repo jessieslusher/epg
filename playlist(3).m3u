@@ -67,6 +67,12 @@ https://tvpass.org/live/AnimalPlanetEast/sd
 https://tvpass.org/live/AnimalPlanetEast/hd
 #EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD 1" group-title="Live",Animal Planet US East HD 1
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=154623&extension=ts&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png" group-title="Knowledge", Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+http://gamsgo.cyou:8080/2c258a9b/c73f1cfbce/157532
 #EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East SD" group-title="Live",BBC America East SD
 https://tvpass.org/live/BBCAmericaEast/sd
 #EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East HD" group-title="Live",BBC America East HD
