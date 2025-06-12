@@ -420,10 +420,22 @@ http://cord-cutter.net:8080/X5xRz0/944877/1818?checkedby:alliptvlinks.com
 https://tvpass.org/live/FoxSports1/sd
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="Live",Fox Sports 1 HD
 https://tvpass.org/live/FoxSports1/hd
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD 1" group-title="Live",Fox Sports 1 HD 1
+http://cord-cutter.net:8080/hq3y4G/234247/1846?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD 2" group-title="Live",Fox Sports 1 HD 2
+http://cord-cutter.net:8080/hq3y4G/234247/46792?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD 3" group-title="Live",Fox Sports 1 HD 3
+http://cord-cutter.net:8080/k4Svp2/645504/1846?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 SD" group-title="Live",Fox Sports 2 SD
-https://tvpass.org/live/FoxSports2/sd
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=375102&extension=ts&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="Live",Fox Sports 2 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=375102&extension=ts&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD 1" group-title="Live",Fox Sports 2 HD 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=375102&extension=ts&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD 2" group-title="Live",Fox Sports 2 HD 2
 https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD 3" group-title="Live",Fox Sports 2 HD 3
+http://saveukraine.only4.tv/7925/video.m3u8?token=saveUkrain&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed SD" group-title="Live",Freeform East Feed SD
 https://tvpass.org/live/FreeformEast/sd
 #EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed HD" group-title="Live",Freeform East Feed HD
