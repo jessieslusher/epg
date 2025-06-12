@@ -446,8 +446,13 @@ http://cord-cutter.net:8080/hq3y4G/234247/1847?checkedby:alliptvlinks.com
 http://cord-cutter.net:8080/k4Svp2/645504/1847?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD 8" group-title="Live",Fox Sports 2 HD 8
 http://cord-cutter.net:8080/X5xRz0/944877/1847?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD test" group-title="Live",Fox Sports 2 HD test
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1sHzt5p/Foxsportsdua.png" group-title="Sports", Fox Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://proji.glitch.me/http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7323/index.m3u8
+https://proji.glitch.me/http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/7323/index.m3u8
+https://proji.glitch.me/http://54170383.amazzin.pw/iptv/2K98FD8RFXR7RX/7323/index.m3u8
+https://proji.glitch.me/http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/7323/index.m3u8
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed SD" group-title="Live",Freeform East Feed SD
 https://tvpass.org/live/FreeformEast/sd
 #EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed HD" group-title="Live",Freeform East Feed HD
