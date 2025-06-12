@@ -433,7 +433,7 @@ http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=375102&ext
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD 1" group-title="Live",Fox Sports 2 HD 1
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=375102&extension=ts&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD 2" group-title="Live",Fox Sports 2 HD 2
-https://tvpass.org/live/FoxSports2/hd
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=375102&extension=ts&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD 3" group-title="Live",Fox Sports 2 HD 3
 http://saveukraine.only4.tv/7925/video.m3u8?token=saveUkrain&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed SD" group-title="Live",Freeform East Feed SD
