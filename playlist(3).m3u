@@ -418,14 +418,13 @@ http://cord-cutter.net:8080/k4Svp2/645504/1818?checkedby:alliptvlinks.com
 http://cord-cutter.net:8080/X5xRz0/944877/1818?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 SD" group-title="Live",Fox Sports 1 SD
 https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="Live",Fox Sports 1 HD
-https://tvpass.org/live/FoxSports1/hd
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD 1" group-title="Live",Fox Sports 1 HD 1
-http://cord-cutter.net:8080/hq3y4G/234247/1846?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD 2" group-title="Live",Fox Sports 1 HD 2
-http://cord-cutter.net:8080/hq3y4G/234247/46792?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD 3" group-title="Live",Fox Sports 1 HD 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7CBRdY5/Foxsportsatu.png" group-title="Sports", Fox Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7322/index.m3u8
 http://cord-cutter.net:8080/k4Svp2/645504/1846?checkedby:alliptvlinks.com
+http://cord-cutter.net:8080/hq3y4G/234247/46792?checkedby:alliptvlinks.com
+http://cord-cutter.net:8080/hq3y4G/234247/1846?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://i.ibb.co.com/1sHzt5p/Foxsportsdua.png" group-title="Sports", Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/k4Svp2/645504/1847?checkedby:alliptvlinks.com
